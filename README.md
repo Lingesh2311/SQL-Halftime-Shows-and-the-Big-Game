@@ -1,7 +1,7 @@
 # SQL-Halftime-Shows-and-the-Big-Game
 
 
-This dataset contains the python notebook for the tabular data which contains the perfomances, artists, and games for the Superbowl from 2000 until 2018. The notebook follows analysis on the datasets using SQL in python using the magic function %%sql. Some common questions that are seen include:
+This dataset contains the python notebook for the tabular data which contains the perfomances, artists, and games for the Superbowl from 2000 until 2018. The notebook follows analysis on the datasets using SQL in python using the magic function `%%sql`. Some common questions that are seen include:
 
 * What are the most extreme game outcomes?
 * How does the game affect the television viewership?
